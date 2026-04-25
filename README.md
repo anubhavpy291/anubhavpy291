@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm currently learning
-
-
+CyberSecurity,
+AI/ML,
+GameDev
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Wonderful_Scar9403) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhav.arc25@gmail.com) 
 
